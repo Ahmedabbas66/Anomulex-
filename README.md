@@ -71,7 +71,7 @@ It leverages NetFlow/IPFIX/CICFlowMeter features, advanced ML models, and explai
 - [System Design Document (SDD)](docs/SDD.md)
 - [System Architecture](docs/SYSTEM_ARCHITECTURE.md) 
 - [Data & Features](docs/DATA_FEATURES.md)  
-- [Model Training & Evaluation](docs/MODEL.md)  
+- [Model Training & Evaluation](docs/MODELS.md)  
 - [Testing Plan](docs/TESTING.md)  
 - [Runbook (Ops Guide)](docs/RUNBOOK.md)
  
