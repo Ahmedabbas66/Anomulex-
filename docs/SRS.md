@@ -77,10 +77,6 @@ It collects metadata flows, extracts features, applies ML models, and generates 
 - **Description:** Display detection results via UI (ntopng/custom).  
 - **Priority:** Medium  
 
-### 3.5 Explainability
-- **Description:** Provide SHAP/LIME explanations for decisions.  
-- **Priority:** Medium  
-
 ---
 
 ## 4. Non-Functional Requirements
