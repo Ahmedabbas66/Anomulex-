@@ -1,5 +1,5 @@
 # Anomulex  
-**AI-based Intrusion Detection System (IDS)**  
+**AI-based Network Intrusion Detection System (IDS)**  
 
 Anomulex is an AI-powered Intrusion Detection System designed to detect anomalies and malicious activities in network traffic using flow-level metadata and machine learning.  
 It leverages NetFlow/IPFIX/CICFlowMeter features, advanced ML models, and explainability techniques to provide accurate and interpretable intrusion detection.  
