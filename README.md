@@ -31,7 +31,7 @@ It leverages NetFlow/IPFIX/CICFlowMeter features, advanced ML models, and explai
 ## 📋 Features
 - Flow collection via **NetFlow, IPFIX, or CICFlowMeter**.  
 - Feature extraction from bidirectional flows.  
-- ML classification: benign vs multiple attack types (DoS, PortScan, Botnet, SQLi, etc.).  
+- ML classification: benign vs multiple attack types (DoS, PortScan, Botnet, DDos, etc.).  
 - Real-time alerting and visualization.  
 - Explainability with **SHAP / LIME**.  
 
