@@ -27,22 +27,22 @@ It integrates with existing flow exporters (nProbe, NetFlow/IPFIX devices) and p
                NetFlow/IPFIX
                       │
             ┌─────────▼─────────┐
-            │ Flow Collector     │
+            │ Flow Collector    │
             │ (nProbe/CICFM)    │
             └─────────┬─────────┘
                       │
              Feature Extraction
                       │
             ┌─────────▼─────────┐
-            │ ML Engine          │
-            │ - Training         │
-            │ - Inference        │
+            │ ML Engine         │
+            │ - Training        │
+            │ - Inference       │
             └─────────┬─────────┘
                       │
                Alerts & Reports
                       │
             ┌─────────▼─────────┐
-            │ Dashboard/Analyzer │
+            │ Dashboard/Analyzer│
             │ (ntopng/ELK)      │
             └───────────────────┘
 
