@@ -1,7 +1,6 @@
 # 📑 Software Requirements Specification (SRS)  
 **Project:** Anomulex – AI-based Intrusion Detection System (IDS)  
 **Version:** v0.1.0-alpha  
-**Author:** Ahmed Adel  
 **Date:** 2025-09-30  
 
 ---
