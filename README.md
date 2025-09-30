@@ -69,7 +69,7 @@ It leverages NetFlow/IPFIX/CICFlowMeter features, advanced ML models, and explai
 ## 📑 Documentation
 - [System Requirements Specification (SRS)](docs/SRS.md)  
 - [System Design Document (SDD)](docs/SDD.md)
-- [System Architecture)](docs/SYSTEM_ARCHITECTURE.md) 
+- [System Architecture](docs/SYSTEM_ARCHITECTURE.md) 
 - [Data & Features](docs/DATA_FEATURES.md)  
 - [Model Training & Evaluation](docs/MODEL.md)  
 - [Testing Plan](docs/TESTING.md)  
